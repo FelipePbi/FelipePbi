@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Felipe_Borges-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-borges-pbi/)](https://www.linkedin.com/in/felipe-borges-pbi/)
 [![Gmail Badge](https://img.shields.io/badge/-felipeborgesdarosa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipeborgesdarosa@gmail.com)](mailto:felipeborgesdarosa@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/rafacdomin?label=Follow&style=social)](https://github.com/rafacdomin/?tab=follow)
+[![GitHub followers](https://img.shields.io/github/followers/FelipePbi?label=Follow&style=social)](https://github.com/FelipePbi/?tab=follow)
 
 ---
 
