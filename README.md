@@ -8,6 +8,6 @@
 
 <br />
 
-- :smile: I like to code, play games, watch movies and make music on my free time.
+- :smile: I like to code, play games and watch movies on my free time.
 - 🌱 I'm currently improving my skills in ReactJS, React Native and NodeJS.
 - :computer: Languages that I know: JavaScript, C#, HTML, CSS.
